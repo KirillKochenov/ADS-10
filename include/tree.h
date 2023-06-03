@@ -54,4 +54,4 @@ class Tree {
   }
 };
 
-#endif
+#endif  // INCLUDE_TREE_H_
